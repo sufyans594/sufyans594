@@ -12,6 +12,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sufyan-sajid-304a70307)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meetsufyan88@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sufyans594)
+[![Profile Views](https://komarev.com/ghpvc/?username=sufyans594&style=for-the-badge&color=58a6ff&label=Profile+Views)](https://github.com/sufyans594)
 
 </div>
 
@@ -20,6 +22,18 @@
 ## 👨‍💻 About Me
 
 I'm a **6th Semester Software Engineering undergraduate at STMU Islamabad** with a **CGPA of 3.67** who loves building things that actually work in the real world — from training ML models to wiring up autonomous robots. I believe the best software isn't just functional, it's *intelligent*, and that's exactly where SE meets AI in everything I do. Whether it's building ROS2-powered robot cars, designing gesture-controlled systems, or diving deep into cybersecurity — I show up, I learn fast, and I make it count.
+
+<br/>
+
+> 🔭 Currently working on: **MentorPi Robot Car (ROS2)** · **Hand Gesture Tracker** · **Smart StudyMate**
+> 
+> 🌱 Currently learning: **ROS2** · **MediaPipe** · **TensorFlow** · **Embedded Linux**
+> 
+> 💬 Ask me about: **AI, Robotics, Python, Cybersecurity, Embedded Systems**
+> 
+> ⚡ Fun fact: *I build robots by day and break systems (ethically) by night.*
+
+<br/>
 
 💡 **Skills & Interests**
 
@@ -94,60 +108,64 @@ I'm a **6th Semester Software Engineering undergraduate at STMU Islamabad** with
 <tr>
 <td width="50%" valign="top">
 
-**🤖 MentorPi Robot Car**
+### 🤖 MentorPi Robot Car
+Autonomous robot car on Raspberry Pi 5 with ROS2, TOF lidar, camera, and full motor control stack.
 
-Autonomous robot car on Raspberry Pi 5 with ROS2, TOF lidar, camera, and full motor control.
-
-`ROS2` `Python` `Raspberry Pi 5` `OpenCV`
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-**✋ Hand Gesture Tracker**
+### ✋ Hand Gesture Tracker
+Real-time index finger drawing with 5-finger freeze-and-display gesture using MediaPipe.
 
-Real-time finger drawing with 5-finger freeze-and-display gesture using MediaPipe.
-
-`Python` `MediaPipe` `OpenCV` `ROS2`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🧠 AI Digit Recognition**
+### 🧠 AI Digit Recognition
+ML model recognizing handwritten digits drawn via mouse with a real-time prediction interface.
 
-ML model recognizing handwritten digits drawn via mouse with real-time prediction.
-
-`Python` `TensorFlow` `Scikit-learn`
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-**📚 Smart StudyMate**
-
+### 📚 Smart StudyMate
 Flashcard system with auth, deck management, performance tracking & Matplotlib analytics.
 
-`Python` `Tkinter` `MySQL` `Matplotlib`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🚗 Obstacle Avoiding Robot**
+### 🚗 Obstacle Avoiding Robot
+Autonomous robot with IR/Ultrasonic sensor-based real-time obstacle detection and control.
 
-Autonomous robot with IR/Ultrasonic sensor-based real-time obstacle detection.
-
-`Arduino` `C++` `Ultrasonic` `IR Sensors`
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-**🔐 Ethical Pen Testing**
-
+### 🔐 Ethical Pen Testing
 Bootable USB for vulnerability assessment and security testing. Educational use only.
 
-`Linux` `Penetration Testing` `Security Tools`
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Security](https://img.shields.io/badge/Penetration%20Testing-ef4444?style=flat-square)
 
 </td>
 </tr>
@@ -181,6 +199,8 @@ Bootable USB for vulnerability assessment and security testing. Educational use 
 
 ## 🐍 Contribution Snake
 
+> ⚙️ *Snake generates automatically every day via GitHub Actions. [Set it up here ↗](https://github.com/sufyans594/sufyans594/actions)*
+
 <div align="center">
 
 <picture>
@@ -195,13 +215,23 @@ Bootable USB for vulnerability assessment and security testing. Educational use 
 
 ## 📈 Activity Graph
 
-![Sufyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sufyans594&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f97316&area=true&hide_border=true)
+<div align="center">
+
+[![Sufyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sufyans594&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
 <div align="center">
 
-✨ *If you find my work interesting, feel free to ⭐ a repo or connect on LinkedIn!*
+### 💼 Open to Internships & Collaborations!
+
+*If you find my work interesting, feel free to ⭐ a repo or connect on LinkedIn!*
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sufyan-sajid-304a70307)
+
+<br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sufyans594&color=58a6ff&style=for-the-badge&label=Visitor+Count)
 
