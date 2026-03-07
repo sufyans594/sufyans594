@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sufyansajid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sufyan-sajid-304a70307)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meetsufyan88@gmail.com)
 
 </div>
@@ -170,8 +170,8 @@ Bootable USB for vulnerability assessment and security testing. Educational use 
 
 <div align="center">
 
-![Sufyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sufyans594&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sufyans594&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
+![Sufyan's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sufyans594&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sufyans594&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sufyans594&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff)
 
