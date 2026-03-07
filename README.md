@@ -21,12 +21,12 @@ I'm a **6th Semester Software Engineering undergraduate at STMU Islamabad** with
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20Systems-0ea5e9?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Robotics-f97316?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Cybersecurity-ef4444?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Software%20Engineering-8b5cf6?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Embedded%20Systems-10b981?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Analytics-f59e0b?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Systems-0ea5e9?style=flat-square" />
+<img src="https://img.shields.io/badge/Robotics-f97316?style=flat-square" />
+<img src="https://img.shields.io/badge/Cybersecurity-ef4444?style=flat-square" />
+<img src="https://img.shields.io/badge/Software%20Engineering-8b5cf6?style=flat-square" />
+<img src="https://img.shields.io/badge/Embedded%20Systems-10b981?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Analytics-f59e0b?style=flat-square" />
 
 ---
 
@@ -215,6 +215,6 @@ Bootable USB for vulnerability assessment and security testing. Educational use 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=footer" />
 
 </div>
