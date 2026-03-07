@@ -1,14 +1,9 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Sufyan%20Sajid&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%7C%20Robotics%20%7C%20Cybersecurity&descAlignY=57&descSize=16"/>
-</div>
-
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🤖+ROS2+%7C+Raspberry+Pi+%7C+Robotics;🧠+AI+%7C+Machine+Learning+%7C+Computer+Vision;🔐+Cybersecurity+%7C+Ethical+Hacking;💻+Python+%7C+Java+%7C+C%2B%2B;⚡+Build.+Break.+Learn.+Repeat.)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sufyan-sajid-304a70307)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meetsufyan88@gmail.com)
@@ -26,11 +21,11 @@ I'm a **6th Semester Software Engineering undergraduate at STMU Islamabad** with
 <br/>
 
 > 🔭 Currently working on: **MentorPi Robot Car (ROS2)** · **Hand Gesture Tracker** · **Smart StudyMate**
-> 
+>
 > 🌱 Currently learning: **ROS2** · **MediaPipe** · **TensorFlow** · **Embedded Linux**
-> 
+>
 > 💬 Ask me about: **AI, Robotics, Python, Cybersecurity, Embedded Systems**
-> 
+>
 > ⚡ Fun fact: *I build robots by day and break systems (ethically) by night.*
 
 <br/>
@@ -197,29 +192,9 @@ Bootable USB for vulnerability assessment and security testing. Educational use 
 
 ---
 
-## 🐍 Contribution Snake
-
-> ⚙️ *Snake generates automatically every day via GitHub Actions. [Set it up here ↗](https://github.com/sufyans594/sufyans594/actions)*
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sufyans594/sufyans594/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sufyans594/sufyans594/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sufyans594/sufyans594/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
-<div align="center">
-
 [![Sufyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sufyans594&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
