@@ -164,6 +164,22 @@ Bootable USB for vulnerability assessment and security testing. Educational use 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 Contact Management System
+Full-stack web app with JWT auth, paginated contact CRUD, Spring Boot backend, React frontend, and SonarQube quality gate passed with 0 bugs.
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sufyans594/contact-management-system)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ---
@@ -208,7 +224,7 @@ Bootable USB for vulnerability assessment and security testing. Educational use 
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sufyans594&color=58a6ff&style=for-the-badge&label=Visitor+Count)
+![Visitor Count](https://komarev.com/ghpvc/?username=sufyans594&style=for-the-badge&color=58a6ff&label=Visitor+Count)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
